@@ -1,4 +1,4 @@
-I'm Mouad Sidqi, I'm a software engineer and computer graphics and gamedev enthusiast. 
+I'm Mouad Sidqi, I'm a Frontend software engineer and computer graphics, gamedev enthusiast. 
 I'm also part of 42 network at 1337FIL.
 
 # Stats
